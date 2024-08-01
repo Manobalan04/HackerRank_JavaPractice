@@ -19,7 +19,7 @@ package easy;
 
 import java.util.Scanner;
 
-public class Java_Stdin_and_Stdout_I {
+public class _2_Java_Stdin_and_Stdout_I {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
