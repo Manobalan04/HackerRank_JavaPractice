@@ -36,7 +36,7 @@ public class _5_Java_Output_Formatting {
 	        for(int i=0;i<3;i++){
 	            String s=sc.next();
 	            int c=sc.nextInt();
-	            System.out.printf("%-15s%03d%n",s,c);
+	            System.out.format("%-15s%03d%n",s,c);
 	        }
 	        System.out.println("================================");
 	        
